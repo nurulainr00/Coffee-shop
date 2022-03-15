@@ -1,6 +1,0 @@
-Caramel latte,15
-Vanilla latte,15
-Americano,10
-Croissant,10
-Pavlova,10
-Cupcake,5
